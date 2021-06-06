@@ -1,0 +1,14 @@
+.slide-container{
+  width: 200px;
+  heigh:600px;  
+}
+.image-container{
+    position:relative;
+    transition:left 5s;
+    -webkit-transition: left 5s;
+}
+.slider-image{
+    float: left;
+    margin: 0px;
+    padding: 0px;
+}
